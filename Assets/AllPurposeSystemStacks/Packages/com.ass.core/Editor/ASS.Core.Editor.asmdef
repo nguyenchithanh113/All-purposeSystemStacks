@@ -2,7 +2,9 @@
     "name": "ASS.Core.Editor",
     "rootNamespace": "ASS.Core",
     "references": [],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
