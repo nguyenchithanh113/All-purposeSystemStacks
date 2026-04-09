@@ -37,6 +37,16 @@ namespace ASS.Core.Editor
                 "https://github.com/nguyenchithanh113/All-purposeSystemStacks.git?path=Assets/AllPurposeSystemStacks/Packages/com.ass.mvvm"},
             {"com.ass.vcontainer",
                 "https://github.com/nguyenchithanh113/All-purposeSystemStacks.git?path=Assets/AllPurposeSystemStacks/Packages/com.ass.vcontainer"},
+            {"com.sdkpro.core",
+                            "https://github.com/nguyenchithanh113/AdManager.git?path=Assets/SDKPro"},
+            {"com.sdkpro.admob",
+                "https://github.com/nguyenchithanh113/AdManager.git?path=Assets/SDKPro.Admob"},
+            {"com.sdkpro.applovin",
+                "https://github.com/nguyenchithanh113/AdManager.git?path=Assets/SDKPro.Applovin"},
+            {"com.sdkpro.appsflyer",
+                "https://github.com/nguyenchithanh113/AdManager.git?path=Assets/SDKPro.Appsflyer"},
+            {"com.sdkpro.firebaseruntime",
+                "https://github.com/nguyenchithanh113/AdManager.git?path=Assets/SDKPro.Firebase"},
         };
         
         public PackageModel[] Packages { get; private set; }
